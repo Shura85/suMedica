@@ -1,9 +1,0 @@
-suMedica
-========
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Shura85/suMedica.git
-git push -u origin master
-Push an existing repository from the command line
